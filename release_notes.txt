@@ -1,1 +1,5 @@
 This is an experimental release note.
+(
+    #After merging changes from release branch to master and develop,
+    release branch should be deleted.
+)
