@@ -1,3 +1,7 @@
 This is an experimental hotfix branch. The key feature of 
 hotfix branches are they need to be forked directly from
 master branch.
+(
+    #Also hotfix branches should be removed after completing a
+    hotfix.
+)
